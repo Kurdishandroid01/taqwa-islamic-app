@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html data-theme="theme_1">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="viewport"
+        content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width, viewport-fit=cover">
+    <meta name="color-scheme" content="light dark">
+    <link rel="stylesheet" href="/css/var.css"> <!-- المتغيرات -->
+    <link rel="stylesheet" href="/css/main.css"> <!-- ملف الإستايل الأساسي -->
+    <link rel="stylesheet" href="/css/footer.css"> <!-- ملف css الفوتر -->
+    <link rel="stylesheet" href="/css/info.css">
+    <link rel="stylesheet" href="/css/more.css">
+    <link rel="stylesheet" href="/css/animate.min.css"> <!-- مؤثرات الإنتقال -->
+    <title>التقوى</title>
+</head>
+
+<body>
+
+    <div id="more_header" class="animate__animated animate__fadeIn">
+
+        <img src="/img/back.png" id="back">
+
+        <p id="more_header_title">
+            عن التطبيق
+        </p>
+
+    </div>
+
+    <div id="content" class="animate__animated animate__fadeIn">
+
+        <!-- ================ ضع هنا محتوى الصفحة =============== -->
+
+        <img src="../img/altaqwaa.png" id="logo_altaqwaa">
+
+        <p id="app_description">
+            تطبيق إسلامي يقدم محتوى دينياً متنوعًا ومفيدًا، يشمل إرشادات يومية وميزات تخدم احتياجات
+            المستخدم المسلم. <br>استمتع بتجربة سهلة وشاملة مع التقوى. <br> <span id="free">
+                تطبيق مجاني ومفتوح المصدر للأبد
+            </span>
+        </p>
+
+        <!-- الإعلان عن الإصدار القادم -->
+        <div id="upcoming_release" class="animate__animated animate__fadeIn">
+            <h2>قريباً: الإصدار الجديد</h2>
+            <img src="../img/new_logo.png" id="new_logo" alt="شعار الإصدار الجديد">
+            <p id="release_details">
+                ترقبوا الإصدار الجديد من تطبيق التقوى، الذي سيأتي بمزايا جديدة وتحسينات شاملة لتجربة أفضل للمستخدم.
+            </p>
+
+            <a href="https://paypal.me/i8xTeam" id="paypal" target="_blank" rel="noopener noreferrer">إدعمنا</a>
+            <a href="https://github.com/rn0x/altaqwaa-android" id="codegit" target="_blank" rel="noopener noreferrer">او ساعدنا في تطوير الإصدار الجديد</a>
+        </div>
+
+        <ul id="Box_LINK">
+
+            <li id="telegram">
+                <img src="../img/telegram.png" alt="telegram" class="icons">
+                <p>
+                    مجموعتنا على تيليجرام: <a href="https://t.me/tqw24h">@tqw24h</a>
+                </p>
+            </li>
+
+            <li id="app_version">
+                <img src="../img/version.png" alt="version" class="icons">
+                <p>
+                    الإصدار: <span id="version_number">
+                        v1.2.7
+                    </span>
+                </p>
+            </li>
+
+            <li id="license">
+                <img src="../img/license.png" alt="license" class="icons">
+                <p>
+                    الترخيص: <span id="license_content">
+                        GPL-3.0
+                    </span>
+                </p>
+            </li>
+
+        </ul>
+
+        <a href="https://altaqwaa.org" id="url_altaqwaa" target="_blank">
+            www.altaqwaa.org
+        </a>
+
+        <h3 id="Do_not_forget">
+            لا تنسنا من دعوة صالحة بظهر الغيب
+        </h3>
+
+        <ul id="altaqwaa_ul">
+
+            <li>
+                <a href="https://github.com/rn0x/altaqwaa_android" target="_blank" rel="noopener noreferrer">
+                    <img src="/img/github.svg" class="icon_tqw">
+                </a>
+            </li>
+
+        </ul>
+
+        <!-- ================ ضع هنا محتوى الصفحة =============== -->
+
+    </div>
+
+
+    <footer id="footer">
+        <!-- الفوتر مربوط بالجافاسكربت -->
+    </footer>
+
+    <script>
+        let back = document.getElementById('back');
+
+        back.addEventListener("click", e => {
+            window.location.href = "/more.html";
+        });
+    </script>
+    <script src="/js/index.js" type="module"></script>
+</body>
+
+</html>

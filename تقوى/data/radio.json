@@ -1,0 +1,140 @@
+[
+    {
+        "id": 5,
+        "name": "إذاعة الشيخ عبد الباسط عبد الصمد",
+        "link": "https://qurango.net/radio/abdulbasit_abdulsamad_mojawwad",
+        "image": "/data/radio/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "اذاعة الشيخ محمود على البنا",
+        "link": "https://qurango.net/radio/mahmoud_ali__albanna_mojawwad",
+        "image": "/data/radio/6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "إذاعة الشيخ محمود خليل الحصري",
+        "link": "https://qurango.net/radio/mahmoud_khalil_alhussary",
+        "image": "/data/radio/7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "إذاعة محمد صديق المنشاوي",
+        "link": "https://backup.qurango.net/radio/mohammed_siddiq_alminshawi",
+        "image": "/data/radio/8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "إذاعة الشيخ الشعراوي",
+        "link": "https://server3.quraan.us:8014/;*.mp3",
+        "image": "/data/radio/9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "إذاعة إدريس أبكر",
+        "link": "https://Qurango.net/radio/idrees_abkr",
+        "image": "/data/radio/10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "إذاعة ماهر المعيقلي",
+        "link": "https://backup.qurango.net/radio/maher",
+        "image": "/data/radio/11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "إذاعة سورة البقرة - لعدد من القراء",
+        "link": "https://backup.qurango.net/radio/albaqarah",
+        "image": "/data/radio/12.jpg"
+    },
+    {
+        "id": 13,
+        "name": "اذاعة متنوعة لمختلف القراء",
+        "link": "https://Qurango.net/radio/mix",
+        "image": "/data/radio/13.jpg"
+    },
+    {
+        "id": 14,
+        "name": "المختصر في تفسير القرآن الكريم",
+        "link": "https://qurango.net/radio/mukhtasartafsir",
+        "image": "/data/radio/14.jpg"
+    },
+    {
+        "id": 15,
+        "name": "سيرة نبينا محمد صلى الله عليه وسلم",
+        "link": "https://Qurango.net/radio/fi_zilal_alsiyra",
+        "image": "/data/radio/15.jpg"
+    },
+    {
+        "id": 16,
+        "name": "صور من حياة الصحابة",
+        "link": "https://qurango.net/radio/sahabah",
+        "image": "/data/radio/16.jpg"
+    },
+    {
+        "id": 17,
+        "name": "إذاعة آيات السكينة",
+        "link": "https://qurango.net/radio/sakeenah",
+        "image": "/data/radio/17.jpg"
+    },
+    {
+        "id": 18,
+        "name": "إذاعة ناصر القطامي",
+        "link": "https://qurango.net/radio/nasser_alqatami",
+        "image": "/data/radio/18.jpg"
+    },
+    {
+        "id": 19,
+        "name": "إذاعة سعود الشريم",
+        "link": "https://Qurango.net/radio/saud_alshuraim",
+        "image": "/data/radio/19.jpg"
+    },
+    {
+        "id": 20,
+        "name": "إذاعة محمد أيوب",
+        "link": "https://backup.qurango.net/radio/ayyoub2",
+        "image": "/data/radio/20.jpg"
+    },
+    {
+        "id": 21,
+        "name": "إذاعة خالد الجليل",
+        "link": "https://backup.qurango.net/radio/khalid_aljileel",
+        "image":"/data/radio/21.jpg"
+    },
+    {
+        "id": 22,
+        "name": "أذكار الصباح",
+        "link": "https://backup.qurango.net/radio/athkar_sabah",
+        "image":"/data/radio/22.jpg"
+    },
+    {
+        "id": 23,
+        "name": "أذكار المساء",
+        "link": "https://backup.qurango.net/radio/athkar_masa",
+        "image":"/data/radio/23.jpg"
+    },
+    {
+        "id": 24,
+        "name": "إذاعة علي جابر",
+        "link": "https://backup.qurango.net/radio/ali_jaber",
+        "image":"/data/radio/24.jpg"
+    },
+    {
+        "id": 25,
+        "name": "إذاعة محمد رشاد الشريف",
+        "link": "https://backup.qurango.net/radio/mohammad_rashad_alshareef",
+        "image":"/data/radio/25.jpg"
+    },
+    {
+        "id": 26,
+        "name": "إذاعة الرقية الشرعية",
+        "link": "https://qurango.net/radio/roqiah",
+        "image":"/data/radio/26.jpg"
+    },
+    {
+        "id": 27,
+        "name": "إذاعة الفتاوى العامة",
+        "link": "https://qurango.net/radio/fatwa",
+        "image":"/data/radio/27.jpg"
+    }
+]
